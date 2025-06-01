@@ -192,3 +192,10 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+Individual Analysis/graphs/high_quality.csv
+Individual Analysis/graphs/low_quality.csv
+Individual Analysis/graphs/.~Wine_Workbook__58656.twbr
+Individual Analysis/src/data.parquet
+Individual Analysis/graphs/Wine_1_Workbook.pptx
+Individual Analysis/graphs/Wine_2_Workbook.pptx
+Individual Analysis/graphs/.~Wine_Workbook_2__96032.twbr
